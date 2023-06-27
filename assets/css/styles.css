@@ -428,3 +428,35 @@ a {
 .member__control-next-icon {
     rotate: 180deg;
 }
+/* Install */
+.install {
+    margin-top: 265px;
+}
+.install__inner {
+    padding: 0 70px;
+    background: #2e80ce;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.install__img {
+    margin-top: -95px;
+    display: block;
+}
+.install__content {
+    min-width: 586px;
+}
+.install__heading {
+    color: #fff;
+    width: 489px;
+}
+.install__desc {
+    color: #fff;
+    width: 568px;
+    margin-top: 18px;
+}
+.install__row {
+    display: flex;
+    margin-top: 38px;
+    column-gap: 28px;
+}
